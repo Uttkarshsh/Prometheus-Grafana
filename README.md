@@ -74,13 +74,15 @@ docker-compose up -d
 ![image](https://github.com/user-attachments/assets/3e69ec31-519b-4e10-b2aa-99d825c62374)
 
 
-![image](https://github.com/user-attachments/assets/e5d1cc34-bfc6-43c8-b5b7-0e0efb71cf8e)
+![image](https://github.com/user-attachments/assets/c2a5e095-7629-4d0f-8799-0f9ac3affbf7)
+
 
 
 
 ## Dashboard
 
-![02](https://github.com/user-attachments/assets/bd9741ed-bae6-426d-8e45-235ddf0b7538)
+![image](https://github.com/user-attachments/assets/3994cd40-64ef-4745-95f9-de069631a592)
+
 
 
 ## Configuration Files
