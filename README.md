@@ -50,7 +50,8 @@ docker-compose up -d
 
 1. Log in to Grafana (http://localhost:3000)
 
-![02](https://github.com/user-attachments/assets/99249083-c81b-454e-936b-86e5c82b0380)
+![image](https://github.com/user-attachments/assets/48d3ff0e-7d2e-4acc-8a4a-e653089bf933)
+
 
 
 2. Add Prometheus as a data source:
@@ -69,9 +70,11 @@ docker-compose up -d
     - Select Prometheus data source
     - Click Import
 
-![02](https://github.com/user-attachments/assets/0e1c27a6-7173-49ce-9738-bdb447a58048)
+![image](https://github.com/user-attachments/assets/3e69ec31-519b-4e10-b2aa-99d825c62374)
 
-![02](https://github.com/user-attachments/assets/63c18d0f-17b7-4cd6-8fe1-eb761e6d535a)
+
+![image](https://github.com/user-attachments/assets/e5d1cc34-bfc6-43c8-b5b7-0e0efb71cf8e)
+
 
 
 ## Dashboard
