@@ -1,7 +1,7 @@
 # Monitoring Stack with Prometheus and Grafana
 
 <div align="center">
-    <img src= alt="Grafana Logo" style="width: 400px; height: auto;">
+    
 </div>
 
 This project sets up a complete monitoring stack using Prometheus and Grafana with Node Exporter for system metrics collection.
