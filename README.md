@@ -26,7 +26,8 @@ This project sets up a complete monitoring stack using Prometheus and Grafana wi
 docker-compose up -d
 ```
 
-![03](https://github.com/user-attachments/assets/759290ab-b04c-4ab6-b180-e18b2e063b84)
+![03](https://github.com/user-attachments/assets/a3d180a9-2890-4d18-a37d-7ae0326c8ee0)
+
 
 ## Accessing the Services
 
